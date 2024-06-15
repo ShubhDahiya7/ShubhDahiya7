@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShubhDahiya7
-- 👀 I’m interested in DSA, Web delopment, Forex Trading, Football(went to Inter-IIIT as well)
-- 💞️ I’m looking to collaborate on things related to DSA, Web delopment, Forex Trading
+- 👀 I’m interested in DSA, Web delopment, Forex Trading, Football.
+- 💞️ I’m looking to collaborate on things related to Web delopment, Forex Trading
 - 📫 How to reach me ... email me at pespro2727@gmail.com
 
 <!---
